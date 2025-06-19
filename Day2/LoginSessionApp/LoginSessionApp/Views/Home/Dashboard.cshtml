@@ -1,0 +1,49 @@
+﻿
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<div class="container py-5">
+
+    <div class="d-flex justify-content-between align-items-center mb-2">
+        <h2 class="text-primary fw-bold">Welcome, @ViewBag.User 👋</h2>
+        <a href="/Login/Logout" class="btn btn-outline-danger">Logout</a>
+    </div>
+
+    
+    <div class="alert alert-secondary">
+        <strong>Logged in via:</strong> @ViewBag.Source
+    </div>
+    
+    <div class="row g-4">
+        <div class="col-md-4">
+            <div class="card shadow h-100">
+                <div class="card-body text-center">
+                    <h5 class="card-title text-success">Profile</h5>
+                    <p class="card-text">View and update your profile information here.</p>
+                    <a href="#" class="btn btn-sm btn-success">Go to Profile</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card shadow h-100">
+                <div class="card-body text-center">
+                    <h5 class="card-title text-info">Courses</h5>
+                    <p class="card-text">Explore available learning courses to upgrade your skills.</p>
+                    <a href="#" class="btn btn-sm btn-info">Explore Courses</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card shadow h-100">
+                <div class="card-body text-center">
+                    <h5 class="card-title text-warning">Settings</h5>
+                    <p class="card-text">Update your preferences and account settings.</p>
+                    <a href="#" class="btn btn-sm btn-warning">Open Settings</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

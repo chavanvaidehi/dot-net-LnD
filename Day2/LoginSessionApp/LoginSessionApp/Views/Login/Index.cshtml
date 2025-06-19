@@ -1,0 +1,42 @@
+﻿@model LoginSessionApp.Models.LoginViewModel
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+
+<div class="container d-flex align-items-center justify-content-center" style="min-height: 100vh;">
+    <div class="card shadow p-4" style="width: 100%; max-width: 400px;">
+        <h3 class="text-center mb-4 text-primary">User Login</h3>
+
+        @if (!string.IsNullOrEmpty(ViewBag.Error))
+        {
+            <div class="alert alert-danger">@ViewBag.Error</div>
+        }
+
+        <form asp-action="Index" method="post">
+            <div class="mb-3">
+                <label asp-for="Email" class="form-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger small"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Password" class="form-label"></label>
+                <input asp-for="Password" class="form-control" type="password" />
+                <span asp-validation-for="Password" class="text-danger small"></span>
+            </div>
+            <div class="form-check mb-3">
+                <input type="checkbox" name="RememberMe" value="true" class="form-check-input" id="rememberMe" />
+                <label class="form-check-label" for="rememberMe">Remember Me</label>
+            </div>
+
+
+            <button type="submit" class="btn btn-primary w-100">Login</button>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

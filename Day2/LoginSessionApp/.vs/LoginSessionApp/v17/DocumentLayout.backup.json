@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\dot net L\u0026D\\Day2\\LoginSessionApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52CC98F2-794E-4937-9069-09E169A4755A}|LoginSessionApp\\LoginSessionApp.csproj|e:\\dot net l\u0026d\\day2\\loginsessionapp\\loginsessionapp\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52CC98F2-794E-4937-9069-09E169A4755A}|LoginSessionApp\\LoginSessionApp.csproj|solutionrelative:loginsessionapp\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CC98F2-794E-4937-9069-09E169A4755A}|LoginSessionApp\\LoginSessionApp.csproj|e:\\dot net l\u0026d\\day2\\loginsessionapp\\loginsessionapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52CC98F2-794E-4937-9069-09E169A4755A}|LoginSessionApp\\LoginSessionApp.csproj|solutionrelative:loginsessionapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CC98F2-794E-4937-9069-09E169A4755A}|LoginSessionApp\\LoginSessionApp.csproj|e:\\dot net l\u0026d\\day2\\loginsessionapp\\loginsessionapp\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52CC98F2-794E-4937-9069-09E169A4755A}|LoginSessionApp\\LoginSessionApp.csproj|solutionrelative:loginsessionapp\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CC98F2-794E-4937-9069-09E169A4755A}|LoginSessionApp\\LoginSessionApp.csproj|e:\\dot net l\u0026d\\day2\\loginsessionapp\\loginsessionapp\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52CC98F2-794E-4937-9069-09E169A4755A}|LoginSessionApp\\LoginSessionApp.csproj|solutionrelative:loginsessionapp\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CC98F2-794E-4937-9069-09E169A4755A}|LoginSessionApp\\LoginSessionApp.csproj|e:\\dot net l\u0026d\\day2\\loginsessionapp\\loginsessionapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52CC98F2-794E-4937-9069-09E169A4755A}|LoginSessionApp\\LoginSessionApp.csproj|solutionrelative:loginsessionapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CC98F2-794E-4937-9069-09E169A4755A}|LoginSessionApp\\LoginSessionApp.csproj|e:\\dot net l\u0026d\\day2\\loginsessionapp\\loginsessionapp\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52CC98F2-794E-4937-9069-09E169A4755A}|LoginSessionApp\\LoginSessionApp.csproj|solutionrelative:loginsessionapp\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CC98F2-794E-4937-9069-09E169A4755A}|LoginSessionApp\\LoginSessionApp.csproj|e:\\dot net l\u0026d\\day2\\loginsessionapp\\loginsessionapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52CC98F2-794E-4937-9069-09E169A4755A}|LoginSessionApp\\LoginSessionApp.csproj|solutionrelative:loginsessionapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\dot net L\u0026D\\Day2\\LoginSessionApp\\LoginSessionApp\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "LoginSessionApp\\Views\\Login\\Index.cshtml",
+              "ToolTip": "E:\\dot net L\u0026D\\Day2\\LoginSessionApp\\LoginSessionApp\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "LoginSessionApp\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T14:35:08.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "E:\\dot net L\u0026D\\Day2\\LoginSessionApp\\LoginSessionApp\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "LoginSessionApp\\Controllers\\LoginController.cs",
+              "ToolTip": "E:\\dot net L\u0026D\\Day2\\LoginSessionApp\\LoginSessionApp\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "LoginSessionApp\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA3wC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T14:32:39.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "E:\\dot net L\u0026D\\Day2\\LoginSessionApp\\LoginSessionApp\\Views\\Home\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "LoginSessionApp\\Views\\Home\\Dashboard.cshtml",
+              "ToolTip": "E:\\dot net L\u0026D\\Day2\\LoginSessionApp\\LoginSessionApp\\Views\\Home\\Dashboard.cshtml",
+              "RelativeToolTip": "LoginSessionApp\\Views\\Home\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T14:43:45.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\dot net L\u0026D\\Day2\\LoginSessionApp\\LoginSessionApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LoginSessionApp\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\dot net L\u0026D\\Day2\\LoginSessionApp\\LoginSessionApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LoginSessionApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T14:40:41.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "E:\\dot net L\u0026D\\Day2\\LoginSessionApp\\LoginSessionApp\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "LoginSessionApp\\Models\\LoginViewModel.cs",
+              "ToolTip": "E:\\dot net L\u0026D\\Day2\\LoginSessionApp\\LoginSessionApp\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "LoginSessionApp\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T14:54:32.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\dot net L\u0026D\\Day2\\LoginSessionApp\\LoginSessionApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LoginSessionApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\dot net L\u0026D\\Day2\\LoginSessionApp\\LoginSessionApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LoginSessionApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAACAZmZmZmYkwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T14:59:21.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\dot net L\u0026D\\Day2\\LoginSessionApp\\LoginSessionApp\\Program.cs",
+              "RelativeDocumentMoniker": "LoginSessionApp\\Program.cs",
+              "ToolTip": "E:\\dot net L\u0026D\\Day2\\LoginSessionApp\\LoginSessionApp\\Program.cs",
+              "RelativeToolTip": "LoginSessionApp\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T14:29:26.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
