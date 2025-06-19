@@ -1,0 +1,18 @@
+﻿@model Enrollment
+
+@{
+    ViewData["Title"] = "Enrollment Confirmation";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="alert alert-success shadow text-center">
+                <h4 class="alert-heading">Enrollment Confirmed!</h4>
+                <p class="mb-0">Thank you, <strong>@Model.StudentName</strong>, for enrolling in <strong>@Model.CourseTitle</strong>.</p>
+                <hr>
+                <p class="mb-0">A confirmation email has been sent to <strong>@Model.Email</strong>.</p>
+            </div>
+        </div>
+    </div>
+</div>

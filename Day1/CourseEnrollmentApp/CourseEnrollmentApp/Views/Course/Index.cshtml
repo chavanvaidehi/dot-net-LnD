@@ -1,0 +1,23 @@
+﻿@model List<Course>
+
+@{
+    ViewData["Title"] = "Available Courses";
+}
+
+<div class="container mt-5">
+    <h2 class="mb-4 text-center">Available Courses</h2>
+
+    <div class="row">
+        @foreach (var course in Model)
+        {
+            <div class="col-md-6 mb-6">
+                <div class="card h-100 shadow-sm">
+                    <div class="card-body">
+                        <h5 class="card-title">@course.Title</h5>
+                        <a asp-action="Enroll" asp-route-id="@course.Id" class="btn btn-primary">Enroll Now</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

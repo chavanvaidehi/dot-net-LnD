@@ -1,0 +1,41 @@
+﻿@model Enrollment
+
+@{
+    ViewData["Title"] = "Enroll";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card shadow">
+                <div class="card-body">
+                    <h2 class="card-title text-center mb-4">Enroll in @Model.CourseTitle</h2>
+
+                    <form asp-action="Enroll" method="post">
+                        <input type="hidden" asp-for="CourseId" />
+                        <input type="hidden" asp-for="CourseTitle" />
+                        <input type="hidden" asp-for="UserRole" />
+
+                        <div class="mb-3">
+                            <label asp-for="StudentName" class="form-label"></label>
+                            <input asp-for="StudentName" class="form-control" />
+                            <span asp-validation-for="StudentName" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Email" class="form-label"></label>
+                            <input asp-for="Email" class="form-control" />
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                        </div>
+
+                        <button type="submit" class="btn btn-primary w-100">Submit</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
