@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\dot net L&D\\Day2\\LoginSessionApp\\LoginSessionApp\\LoginSessionApp.csproj": {}
+    "E:\\dot-net-LnD\\Day2\\LoginSessionApp\\LoginSessionApp\\LoginSessionApp.csproj": {}
   },
   "projects": {
-    "E:\\dot net L&D\\Day2\\LoginSessionApp\\LoginSessionApp\\LoginSessionApp.csproj": {
+    "E:\\dot-net-LnD\\Day2\\LoginSessionApp\\LoginSessionApp\\LoginSessionApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\dot net L&D\\Day2\\LoginSessionApp\\LoginSessionApp\\LoginSessionApp.csproj",
+        "projectUniqueName": "E:\\dot-net-LnD\\Day2\\LoginSessionApp\\LoginSessionApp\\LoginSessionApp.csproj",
         "projectName": "LoginSessionApp",
-        "projectPath": "E:\\dot net L&D\\Day2\\LoginSessionApp\\LoginSessionApp\\LoginSessionApp.csproj",
+        "projectPath": "E:\\dot-net-LnD\\Day2\\LoginSessionApp\\LoginSessionApp\\LoginSessionApp.csproj",
         "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "E:\\dot net L&D\\Day2\\LoginSessionApp\\LoginSessionApp\\obj\\",
+        "outputPath": "E:\\dot-net-LnD\\Day2\\LoginSessionApp\\LoginSessionApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

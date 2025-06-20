@@ -1,0 +1,28 @@
+﻿@model IEnumerable<EmployeeCRUDApp.Models.Employee>
+
+<h2 class="text-2xl font-bold mb-4">Employee List</h2>
+
+<a href="/Employee/Create" class="btn btn-primary">+ Add New</a>
+
+<table class="table table-striped mt-3">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Department</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var emp in Model)
+        {
+            <tr>
+                <td>@emp.Name</td>
+                <td>@emp.Department</td>
+                <td>
+                    <a href="/Employee/Edit/@emp.Id">Edit</a> |
+                    <a href="/Employee/Delete/@emp.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\dot-net-LnD\\Day4\\InventoryManagementApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E30FB6-C0D6-4840-8F7E-D6BD884184F6}|InventoryManagementApp\\InventoryManagementApp.csproj|e:\\dot-net-lnd\\day4\\inventorymanagementapp\\inventorymanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E30FB6-C0D6-4840-8F7E-D6BD884184F6}|InventoryManagementApp\\InventoryManagementApp.csproj|solutionrelative:inventorymanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E30FB6-C0D6-4840-8F7E-D6BD884184F6}|InventoryManagementApp\\InventoryManagementApp.csproj|e:\\dot-net-lnd\\day4\\inventorymanagementapp\\inventorymanagementapp\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0E30FB6-C0D6-4840-8F7E-D6BD884184F6}|InventoryManagementApp\\InventoryManagementApp.csproj|solutionrelative:inventorymanagementapp\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E30FB6-C0D6-4840-8F7E-D6BD884184F6}|InventoryManagementApp\\InventoryManagementApp.csproj|e:\\dot-net-lnd\\day4\\inventorymanagementapp\\inventorymanagementapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E30FB6-C0D6-4840-8F7E-D6BD884184F6}|InventoryManagementApp\\InventoryManagementApp.csproj|solutionrelative:inventorymanagementapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E30FB6-C0D6-4840-8F7E-D6BD884184F6}|InventoryManagementApp\\InventoryManagementApp.csproj|e:\\dot-net-lnd\\day4\\inventorymanagementapp\\inventorymanagementapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E30FB6-C0D6-4840-8F7E-D6BD884184F6}|InventoryManagementApp\\InventoryManagementApp.csproj|solutionrelative:inventorymanagementapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E30FB6-C0D6-4840-8F7E-D6BD884184F6}|InventoryManagementApp\\InventoryManagementApp.csproj|e:\\dot-net-lnd\\day4\\inventorymanagementapp\\inventorymanagementapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0E30FB6-C0D6-4840-8F7E-D6BD884184F6}|InventoryManagementApp\\InventoryManagementApp.csproj|solutionrelative:inventorymanagementapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E30FB6-C0D6-4840-8F7E-D6BD884184F6}|InventoryManagementApp\\InventoryManagementApp.csproj|e:\\dot-net-lnd\\day4\\inventorymanagementapp\\inventorymanagementapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E30FB6-C0D6-4840-8F7E-D6BD884184F6}|InventoryManagementApp\\InventoryManagementApp.csproj|solutionrelative:inventorymanagementapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E30FB6-C0D6-4840-8F7E-D6BD884184F6}|InventoryManagementApp\\InventoryManagementApp.csproj|e:\\dot-net-lnd\\day4\\inventorymanagementapp\\inventorymanagementapp\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E30FB6-C0D6-4840-8F7E-D6BD884184F6}|InventoryManagementApp\\InventoryManagementApp.csproj|solutionrelative:inventorymanagementapp\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E30FB6-C0D6-4840-8F7E-D6BD884184F6}|InventoryManagementApp\\InventoryManagementApp.csproj|e:\\dot-net-lnd\\day4\\inventorymanagementapp\\inventorymanagementapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0E30FB6-C0D6-4840-8F7E-D6BD884184F6}|InventoryManagementApp\\InventoryManagementApp.csproj|solutionrelative:inventorymanagementapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E30FB6-C0D6-4840-8F7E-D6BD884184F6}|InventoryManagementApp\\InventoryManagementApp.csproj|e:\\dot-net-lnd\\day4\\inventorymanagementapp\\inventorymanagementapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0E30FB6-C0D6-4840-8F7E-D6BD884184F6}|InventoryManagementApp\\InventoryManagementApp.csproj|solutionrelative:inventorymanagementapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E30FB6-C0D6-4840-8F7E-D6BD884184F6}|InventoryManagementApp\\InventoryManagementApp.csproj|e:\\dot-net-lnd\\day4\\inventorymanagementapp\\inventorymanagementapp\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0E30FB6-C0D6-4840-8F7E-D6BD884184F6}|InventoryManagementApp\\InventoryManagementApp.csproj|solutionrelative:inventorymanagementapp\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E30FB6-C0D6-4840-8F7E-D6BD884184F6}|InventoryManagementApp\\InventoryManagementApp.csproj|e:\\dot-net-lnd\\day4\\inventorymanagementapp\\inventorymanagementapp\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0E30FB6-C0D6-4840-8F7E-D6BD884184F6}|InventoryManagementApp\\InventoryManagementApp.csproj|solutionrelative:inventorymanagementapp\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E30FB6-C0D6-4840-8F7E-D6BD884184F6}|InventoryManagementApp\\InventoryManagementApp.csproj|e:\\dot-net-lnd\\day4\\inventorymanagementapp\\inventorymanagementapp\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0E30FB6-C0D6-4840-8F7E-D6BD884184F6}|InventoryManagementApp\\InventoryManagementApp.csproj|solutionrelative:inventorymanagementapp\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E30FB6-C0D6-4840-8F7E-D6BD884184F6}|InventoryManagementApp\\InventoryManagementApp.csproj|e:\\dot-net-lnd\\day4\\inventorymanagementapp\\inventorymanagementapp\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E30FB6-C0D6-4840-8F7E-D6BD884184F6}|InventoryManagementApp\\InventoryManagementApp.csproj|solutionrelative:inventorymanagementapp\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E30FB6-C0D6-4840-8F7E-D6BD884184F6}|InventoryManagementApp\\InventoryManagementApp.csproj|e:\\dot-net-lnd\\day4\\inventorymanagementapp\\inventorymanagementapp\\migrations\\20250620071523_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E30FB6-C0D6-4840-8F7E-D6BD884184F6}|InventoryManagementApp\\InventoryManagementApp.csproj|solutionrelative:inventorymanagementapp\\migrations\\20250620071523_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E30FB6-C0D6-4840-8F7E-D6BD884184F6}|InventoryManagementApp\\InventoryManagementApp.csproj|e:\\dot-net-lnd\\day4\\inventorymanagementapp\\inventorymanagementapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F0E30FB6-C0D6-4840-8F7E-D6BD884184F6}|InventoryManagementApp\\InventoryManagementApp.csproj|solutionrelative:inventorymanagementapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E30FB6-C0D6-4840-8F7E-D6BD884184F6}|InventoryManagementApp\\InventoryManagementApp.csproj|e:\\dot-net-lnd\\day4\\inventorymanagementapp\\inventorymanagementapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E30FB6-C0D6-4840-8F7E-D6BD884184F6}|InventoryManagementApp\\InventoryManagementApp.csproj|solutionrelative:inventorymanagementapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E30FB6-C0D6-4840-8F7E-D6BD884184F6}|InventoryManagementApp\\InventoryManagementApp.csproj|e:\\dot-net-lnd\\day4\\inventorymanagementapp\\inventorymanagementapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E30FB6-C0D6-4840-8F7E-D6BD884184F6}|InventoryManagementApp\\InventoryManagementApp.csproj|solutionrelative:inventorymanagementapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\dot-net-LnD\\Day4\\InventoryManagementApp\\InventoryManagementApp\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "InventoryManagementApp\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\dot-net-LnD\\Day4\\InventoryManagementApp\\InventoryManagementApp\\Controllers\\AuthController.cs*",
+              "RelativeToolTip": "InventoryManagementApp\\Controllers\\AuthController.cs*",
+              "ViewState": "AgIAAAcAAAAANDMzMzPjvxQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T08:05:06.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\dot-net-LnD\\Day4\\InventoryManagementApp\\InventoryManagementApp\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "InventoryManagementApp\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "E:\\dot-net-LnD\\Day4\\InventoryManagementApp\\InventoryManagementApp\\Views\\Auth\\Login.cshtml*",
+              "RelativeToolTip": "InventoryManagementApp\\Views\\Auth\\Login.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T07:42:24.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\dot-net-LnD\\Day4\\InventoryManagementApp\\InventoryManagementApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "InventoryManagementApp\\Models\\User.cs",
+              "ToolTip": "E:\\dot-net-LnD\\Day4\\InventoryManagementApp\\InventoryManagementApp\\Models\\User.cs",
+              "RelativeToolTip": "InventoryManagementApp\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T07:46:28.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\dot-net-LnD\\Day4\\InventoryManagementApp\\InventoryManagementApp\\Program.cs",
+              "RelativeDocumentMoniker": "InventoryManagementApp\\Program.cs",
+              "ToolTip": "E:\\dot-net-LnD\\Day4\\InventoryManagementApp\\InventoryManagementApp\\Program.cs*",
+              "RelativeToolTip": "InventoryManagementApp\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T07:09:54.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\dot-net-LnD\\Day4\\InventoryManagementApp\\InventoryManagementApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "InventoryManagementApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\dot-net-LnD\\Day4\\InventoryManagementApp\\InventoryManagementApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "InventoryManagementApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T08:02:55.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\dot-net-LnD\\Day4\\InventoryManagementApp\\InventoryManagementApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "InventoryManagementApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\dot-net-LnD\\Day4\\InventoryManagementApp\\InventoryManagementApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "InventoryManagementApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACgAAACAMzMzMzMbwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T07:31:15.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "E:\\dot-net-LnD\\Day4\\InventoryManagementApp\\InventoryManagementApp\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "InventoryManagementApp\\Services\\ProductService.cs",
+              "ToolTip": "E:\\dot-net-LnD\\Day4\\InventoryManagementApp\\InventoryManagementApp\\Services\\ProductService.cs",
+              "RelativeToolTip": "InventoryManagementApp\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T07:21:58.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\dot-net-LnD\\Day4\\InventoryManagementApp\\InventoryManagementApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "InventoryManagementApp\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\dot-net-LnD\\Day4\\InventoryManagementApp\\InventoryManagementApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "InventoryManagementApp\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAFIAAACAmZmZmZkjwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T07:24:10.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\dot-net-LnD\\Day4\\InventoryManagementApp\\InventoryManagementApp\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "InventoryManagementApp\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "E:\\dot-net-LnD\\Day4\\InventoryManagementApp\\InventoryManagementApp\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "InventoryManagementApp\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T07:29:09.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\dot-net-LnD\\Day4\\InventoryManagementApp\\InventoryManagementApp\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "InventoryManagementApp\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "E:\\dot-net-LnD\\Day4\\InventoryManagementApp\\InventoryManagementApp\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "InventoryManagementApp\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T07:27:57.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\dot-net-LnD\\Day4\\InventoryManagementApp\\InventoryManagementApp\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "InventoryManagementApp\\Views\\Product\\Index.cshtml",
+              "ToolTip": "E:\\dot-net-LnD\\Day4\\InventoryManagementApp\\InventoryManagementApp\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "InventoryManagementApp\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T07:26:41.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\dot-net-LnD\\Day4\\InventoryManagementApp\\InventoryManagementApp\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "InventoryManagementApp\\Views\\Product\\Create.cshtml",
+              "ToolTip": "E:\\dot-net-LnD\\Day4\\InventoryManagementApp\\InventoryManagementApp\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "InventoryManagementApp\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T07:27:13.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "E:\\dot-net-LnD\\Day4\\InventoryManagementApp\\InventoryManagementApp\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "InventoryManagementApp\\Services\\IProductService.cs",
+              "ToolTip": "E:\\dot-net-LnD\\Day4\\InventoryManagementApp\\InventoryManagementApp\\Services\\IProductService.cs",
+              "RelativeToolTip": "InventoryManagementApp\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T07:21:36.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250620071523_InitialCreate.cs",
+              "DocumentMoniker": "E:\\dot-net-LnD\\Day4\\InventoryManagementApp\\InventoryManagementApp\\Migrations\\20250620071523_InitialCreate.cs",
+              "RelativeDocumentMoniker": "InventoryManagementApp\\Migrations\\20250620071523_InitialCreate.cs",
+              "ToolTip": "E:\\dot-net-LnD\\Day4\\InventoryManagementApp\\InventoryManagementApp\\Migrations\\20250620071523_InitialCreate.cs",
+              "RelativeToolTip": "InventoryManagementApp\\Migrations\\20250620071523_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T07:15:24.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\dot-net-LnD\\Day4\\InventoryManagementApp\\InventoryManagementApp\\appsettings.json",
+              "RelativeDocumentMoniker": "InventoryManagementApp\\appsettings.json",
+              "ToolTip": "E:\\dot-net-LnD\\Day4\\InventoryManagementApp\\InventoryManagementApp\\appsettings.json",
+              "RelativeToolTip": "InventoryManagementApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-20T07:10:46.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\dot-net-LnD\\Day4\\InventoryManagementApp\\InventoryManagementApp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "InventoryManagementApp\\Data\\AppDbContext.cs",
+              "ToolTip": "E:\\dot-net-LnD\\Day4\\InventoryManagementApp\\InventoryManagementApp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "InventoryManagementApp\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T07:09:25.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\dot-net-LnD\\Day4\\InventoryManagementApp\\InventoryManagementApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "InventoryManagementApp\\Models\\Product.cs",
+              "ToolTip": "E:\\dot-net-LnD\\Day4\\InventoryManagementApp\\InventoryManagementApp\\Models\\Product.cs",
+              "RelativeToolTip": "InventoryManagementApp\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T07:06:59.152Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

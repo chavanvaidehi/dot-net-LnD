@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LoginSessionApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c83d7b4505c9f0d377bcef46dfe86b0375fe598b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74faf89184a48d0d5314ad746006028b8e11d2b5")]
 [assembly: System.Reflection.AssemblyProductAttribute("LoginSessionApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LoginSessionApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
