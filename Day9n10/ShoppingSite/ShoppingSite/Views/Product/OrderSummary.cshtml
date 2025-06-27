@@ -1,0 +1,39 @@
+﻿@model ShoppingSite.Models.Order
+
+@{
+    ViewData["Title"] = "Order Summary";
+}
+
+<div class="container mt-5">
+    <h2 class="text-success text-center">✅ Order Placed Successfully!</h2>
+    <p class="text-center text-muted">Order ID: @Model.Id</p>
+    <p class="text-center">Order Date: @Model.OrderDate.ToShortDateString()</p>
+
+    <table class="table mt-4">
+        <thead>
+            <tr>
+                <th>Product</th>
+                <th>Qty</th>
+                <th>Price</th>
+                <th>Subtotal</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Items)
+            {
+                <tr>
+                    <td>@item.ProductName</td>
+                    <td>@item.Quantity</td>
+                    <td>₹@item.Price</td>
+                    <td>₹@(item.Price* item.Quantity)</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <h4 class="text-end text-primary">Total: ₹@Model.TotalAmount</h4>
+
+    <div class="text-center mt-4">
+        <a asp-controller="Product" asp-action="Index" class="btn btn-outline-primary">Continue Shopping</a>
+    </div>
+</div>

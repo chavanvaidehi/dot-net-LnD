@@ -1,0 +1,48 @@
+﻿@model List<ShoppingSite.Models.CartItem>
+
+@{
+    ViewData["Title"] = "Your Cart";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center text-indigo-600 text-3xl font-bold mb-4">🛒 Your Shopping Cart</h2>
+
+    @if (!Model.Any())
+    {
+        <p class="text-center text-danger">Your cart is empty.</p>
+    }
+    else
+    {
+        <table class="table table-bordered bg-white shadow-sm">
+            <thead class="table-light">
+                <tr>
+                    <th>Image</th>
+                    <th>Product</th>
+                    <th>Price</th>
+                    <th>Qty</th>
+                    <th>Subtotal</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td><img src="@item.ImageUrl" width="60" /></td>
+                        <td>@item.ProductName</td>
+                        <td>₹@item.Price</td>
+                        <td>@item.Quantity</td>
+                        <td>₹@(item.Price * item.Quantity)</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+        <div class="text-end me-4">
+            <h4 class="text-success">
+                Total: ₹@Model.Sum(x => x.Price * x.Quantity)
+            </h4>
+
+            <a asp-action="Checkout" class="btn btn-success mt-3">Place Order</a>
+        </div>
+    }
+</div>
